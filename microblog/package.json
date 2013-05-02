@@ -1,5 +1,5 @@
 {
-  "name": "application-name",
+  "name": "cloudreal-microblog",
   "version": "0.0.1",
   "private": true,
   "scripts": {
